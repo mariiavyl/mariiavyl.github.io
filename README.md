@@ -1,16 +1,5 @@
 # about me
-Olen Mariia
-<!--
-
-
-
-
-<!--
-pyörä
-kitara
-ruoka
-
-
-
-<!--
-<!--
+Olen Mariia 🤓
+- luksian opiskelija
+- 26v
+- olen asunnut Lohjalla
