@@ -1,2 +1,2 @@
-# Itsestaani
+# about me
 Olen Mariia
