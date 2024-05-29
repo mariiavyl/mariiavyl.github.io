@@ -1,4 +1,16 @@
 # about me
 Olen Mariia
-<!-- kitara
-<!-- pokupyörä
+<!--
+
+
+
+
+<!--
+pyörä
+kitara
+ruoka
+
+
+
+<!--
+<!--
